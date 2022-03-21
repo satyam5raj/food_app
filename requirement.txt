@@ -1,0 +1,5 @@
+nodejs
+npm
+react-router-dom
+mobx
+mobx-react
